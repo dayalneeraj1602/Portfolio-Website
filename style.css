@@ -4,23 +4,24 @@
     
 }
 .sidebar{
-    background-color: aquamarine;
-    width: 20vw;
+    background-color: yellow;
+    width: 10vw;
     font-family: 'Times New Roman', Times, serif;
     height: 100vh;
 }
 .sidebar nav
 {
-    padding: 45px;
+    padding: 10px;
 }
 .sidebar nav li
 {
     list-style: none;
-    font-size: 30px;
-    padding: 33px;
+    font-size: 20px;
+    padding: 3px;
+    margin:0 ;
 }
 .main{
-    background-color: aqua;
+    background-color: red;
     width: 90vw;
 }
 .container{
